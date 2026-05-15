@@ -114,7 +114,3 @@ The notebook generates a `submission.csv` by:
 2. Ensure the `engage-2-value-from-clicks-to-conversions` competition data is available.
 3. Run the cells sequentially from top to bottom.
 4. Download `submission.csv` after the final cell executes.
-
----
-
-If you want, I can also add a short `requirements.txt` or a repository badge section. 
